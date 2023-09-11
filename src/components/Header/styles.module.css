@@ -1,0 +1,39 @@
+.header{
+    display:flex;
+    width:1140px;
+    height: 73px;
+    color:white;
+    margin-top: 46px;
+    margin-left: 150px;
+}
+
+.img{
+    width:140px;
+    height: 24px;
+}
+.itemfirst{ 
+    font-family: 'Montserrat';
+    font-size: small;
+    flex-basis: 26%;
+}
+.number {
+ 
+    flex-basis: 30%;
+    text-align: end;
+}
+
+.itemthird{
+
+    flex-basis: 35%;
+    text-align: end;
+}
+.phone{
+    width:30px;
+    padding-left: 15px;
+}
+.itemseccond{
+    
+    flex-basis: 100%;
+    margin-left: 30px;
+    word-spacing: 11px;
+}

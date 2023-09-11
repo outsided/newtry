@@ -1,0 +1,38 @@
+.footer{
+    display: flex;
+    color:white;
+    margin-left:150px;
+    width: 1140px;
+    height: 120px;
+    justify-content: space-between;
+    flex-basis: 400px;
+}
+h4{
+    color:#656566;
+    margin-bottom:10px;
+}
+.first{
+    margin-right: 100px;
+    flex-basis: 200px;
+}
+.seccond{
+    flex-direction: column;
+    flex-wrap: wrap;
+    flex-basis: 500px;
+}
+.underseccond{
+    line-height: 23px;
+    height: 80px;
+    width: 500px;
+}
+.third{ 
+    text-align: end;
+    flex-basis: 400px;
+}
+.underthird{
+    line-height: 20px;
+}
+.ps{
+    padding-top: 30px;
+    font-size: 12px;
+}

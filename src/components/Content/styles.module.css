@@ -1,0 +1,45 @@
+.content{
+    display:flex;
+    color:white;
+    width: 1140px;
+    height: 320px;
+    margin-left:150px;
+    margin-top:20px;
+    justify-content: space-between;
+  }
+  .first{
+    color:  #E4E5EA;
+  }
+  .seccond{
+    display: flex;
+    text-align: end;
+    flex-wrap: wrap;
+    height: 250px;
+    gap:25px;
+    flex-basis: 286px;
+  }
+  .lside{   
+    flex-basis: 140px;
+    
+  }
+  h3{
+    margin: 5px;
+  }
+  .rside{
+    text-align: end;
+    flex-basis: 120px;
+  }
+  .welbex{
+    font-size: 48px;
+    font-family:sans-serif;
+    background: linear-gradient(90deg,#FCB045,#FF3F78);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+button{
+    flex-basis: 350px;
+    height: 61px;
+    width:262px;
+    background-color:#4077F3;
+    color:white;
+}
